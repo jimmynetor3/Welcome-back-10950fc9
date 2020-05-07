@@ -1,6 +1,4 @@
 <?php
-
-$argv;
 if ($argv[1] === $argv[2]) {
     echo "in balans";
 } else {
